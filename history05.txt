@@ -1,0 +1,11 @@
+   0 cd /root
+   1 touch myfirstbashscript.sh
+   2 chmod u+x myfirstbahscript.sh
+   3 chmod u+x myfirstbashscript.sh
+   4 ls -la
+   5 export USER=Olga
+   6 env
+   7 nano myfirstbashscript.sh
+   8 ./myfirstbashscript
+   9 ./myfirstbashscript.sh
+  10 history> history05.txt
